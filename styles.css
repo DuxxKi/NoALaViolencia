@@ -46,7 +46,7 @@ section h2 {
   transition: color 1s ease, transform 1s ease;
 }
 
-section p, section ul {
+section p, section ul li {
   font-size: 1.2rem;
   margin-top: 10px;
   color: #4a4a4a;
