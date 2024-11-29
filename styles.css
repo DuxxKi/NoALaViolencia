@@ -43,7 +43,7 @@ section h2 {
   font-size: 2rem;
   color: #e64a19; /* Naranja oscuro */
   margin-top: 20px;
-  transition: color 0.5s ease, transform 0.5s ease;
+  transition: color 0.8s ease, transform 0.8s ease;
 }
 
 section p, section ul {
@@ -51,7 +51,7 @@ section p, section ul {
   margin-top: 10px;
   color: #4a4a4a;
   line-height: 1.8;
-  transition: color 0.5s ease, transform 0.5s ease;
+  transition: color 0.8s ease, transform 0.8s ease;
 }
 
 /* Image Gallery */
